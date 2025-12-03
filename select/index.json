@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Dragon Night",
+  "base_artist": "SEKAI NO OWARI",
+  "createdAt": "2025-12-03T12:29:32.046981Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dragon Night",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/01_Dragon_Night_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dragon Night",
+      "artist": "Sekai No Owari",
+      "has_synced": true,
+      "path": "select/02_Dragon_Night_Sekai_No_Owari.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dragon Night",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/03_Dragon_Night_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dragon Night",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/04_Dragon_Night_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dragon Night (Originally Performed by SEKAI NO OWARI)",
+      "artist": "オルゴール ミドリ",
+      "has_synced": false,
+      "path": "select/05_Dragon_Night_(Originally_Performed_by_SEKAI_NO_OWARI)_オルゴール_ミドリ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dragon Night - Japanese Lyrics",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/06_Dragon_Night_-_Japanese_Lyrics_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dragon Night - Live from Yellow Box Studios, Singapore",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/07_Dragon_Night_-_Live_from_Yellow_Box_Studios,_Singapore_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dragon Night",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": false,
+      "path": "select/pl_01_Dragon_Night_SEKAI_NO_OWARI.txt"
+    }
+  ]
+}
